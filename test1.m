@@ -5,7 +5,7 @@ classdef test1
 
     methods
         function y = multiplyByTwo(obj)
-            y = obj.Valu*2;
+            y = obj.Value*2;
             
         end
 
